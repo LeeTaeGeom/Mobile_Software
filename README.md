@@ -1,7 +1,10 @@
 # Mobile_Software
 
 ### 개발환경
-- Mac
+- MacOS 11.5.2
+- Android Studio Arctic Fox | 2020.3.1 Patch 1
+- Runtime version: 11.0.10+0-b96-7281165 x86_64
+
 ### 세팅
 1. 자동 업데이트 기능 끄기
 - Appearance & Behavior - System Settings - Updates에서 수정가능 
