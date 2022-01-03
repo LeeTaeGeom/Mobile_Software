@@ -19,3 +19,5 @@
 - Pixel 2 사용
 - R[API 30, x86 Android 11.0(Google APIs)]선택
 - 실행시키고 settings에서 한글설정, 맞춤법 검사 기능 끄기, 절전 모드 시간 늘리기 사용
+5. build.gradle(Module)
+- 애뮬레이터가 작동하지않으면 implementation 'androidx.appcompat:appcompat:1.3.0'로 버전을 낮추고 rebuild 
